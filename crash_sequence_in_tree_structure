@@ -614,6 +614,3 @@ Root (Count: 0)
     └── Cause Category_none (Count: 104)
         └── CP Category_SUV (Count: 108)
             └── CP Action (0)_parked (Count: 4)
-/var/folders/fy/z6h85dzs0c9fxrhsbds8vr3h0000gn/T/ipykernel_4186/1341281069.py:78: UserWarning:
-
-This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
